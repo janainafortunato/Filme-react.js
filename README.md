@@ -1,3 +1,5 @@
+Estudos usando API: https://sujeitoprogramador.com/r-api/?api=filmes/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
